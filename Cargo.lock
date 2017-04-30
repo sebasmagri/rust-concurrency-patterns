@@ -1,0 +1,4 @@
+[root]
+name = "concurrency-patterns"
+version = "0.1.0"
+

@@ -1,0 +1,6 @@
+[package]
+name = "concurrency-patterns"
+version = "0.1.0"
+authors = ["Sebastián Magrí <sebasmagri@gmail.com>"]
+
+[dependencies]
